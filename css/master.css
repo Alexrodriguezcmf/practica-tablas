@@ -1,0 +1,40 @@
+td, th{
+  /* border: 1px solid black; */
+  border-radius: 5px;
+}
+
+table {
+  /* border-collapse: collapse; */
+  border-spacing: 3px;
+}
+
+th{
+  background-color: #b4c2cf;
+  text-align: center;
+}
+td{
+  background-color: #bfbfbf;
+}
+.magistral{
+  background-color: #bfbfbf;
+}
+
+.conf{
+  background-color: #bfbfbf;
+}
+
+.taller{
+  background-color: #9699ff;
+}
+
+.general{
+  background-color: #9798ca;
+}
+
+.tutorial{
+  background-color: #91cdff;
+}
+
+.informal{
+  background-color: #cacbff;
+}
